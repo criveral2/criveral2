@@ -6,8 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@christi84750704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@christi84750704" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/christian rivera loja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian rivera loja" height="30" width="40" /></a>
-<a href="https://fb.com/christian rivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christian rivera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christian-rivera-loja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian rivera loja" height="30" width="40" /></a>
 <a href="https://instagram.com/christian_grl_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christian_grl_" height="30" width="40" /></a>
 </p>
 
