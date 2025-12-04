@@ -75,9 +75,12 @@
 <a href="https://instagram.com/christian_grl_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christian_grl_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">📈   My stats are:</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=criveral2&show_icons=true&locale=en" alt="criveral2" /></p>
-
+<h3 align="left">📈 My stats are:</h3>
+<p align="center">
+  <img align="center" 
+       src="https://github-readme-stats-git-master-rst.vercel.app/api?username=criveral2&show_icons=true&locale=en" 
+       alt="criveral2" />
+</p>
 
 
 
