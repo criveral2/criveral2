@@ -75,28 +75,16 @@
 <a href="https://instagram.com/christian_grl_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christian_grl_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">📈 My stats are:</h3>
-<p align="center">
-  <img align="center" 
-       src="https://github-readme-stats-git-master-rst.vercel.app/api?username=criveral2&show_icons=true&locale=en" 
-       alt="criveral2" />
-</p>
+### 🏅 Certification
 
-<div 
-  data-iframe-width="150" 
-  data-iframe-height="270" 
-  data-share-badge-id="39617f7f-a2fc-44ba-8b83-bfd2f88d2419" 
-  data-share-badge-host="https://www.credly.com">
-</div>
-<script 
-  type="text/javascript" 
-  async 
-  src="//cdn.credly.com/assets/utilities/embed.js">
-</script>
+<a href="https://www.credly.com/badges/39617f7f-a2fc-44ba-8b83-bfd2f88d2419">
+  <img 
+    src="https://images.credly.com/size/340x340/images/0fe80eea-6fa7-40a5-b58a-1cf19976cd2a/image.png" 
+    alt="ABET Program Graduate"
+    width="120"
+  />
+</a>
 
-### 🏅 Certificación
-
-[![ABET Program Graduate](PEGA_AQUI_LA_URL_DE_LA_IMAGEN)](https://www.credly.com/badges/39617f7f-a2fc-44ba-8b83-bfd2f88d2419)
 
 
 
