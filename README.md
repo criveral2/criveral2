@@ -82,6 +82,22 @@
        alt="criveral2" />
 </p>
 
+<div 
+  data-iframe-width="150" 
+  data-iframe-height="270" 
+  data-share-badge-id="39617f7f-a2fc-44ba-8b83-bfd2f88d2419" 
+  data-share-badge-host="https://www.credly.com">
+</div>
+<script 
+  type="text/javascript" 
+  async 
+  src="//cdn.credly.com/assets/utilities/embed.js">
+</script>
+
+### 🏅 Certificación
+
+[![ABET Program Graduate](PEGA_AQUI_LA_URL_DE_LA_IMAGEN)](https://www.credly.com/badges/39617f7f-a2fc-44ba-8b83-bfd2f88d2419)
+
 
 
  
