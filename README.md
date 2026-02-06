@@ -75,6 +75,15 @@
 <a href="https://instagram.com/christian_grl_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christian_grl_" height="30" width="40" /></a>
 </p>
 
+### 🧩 My stats are:
+<p align="center">
+  <img 
+    src="https://githubcard.com/criveral2.svg?d=a3n7eZ3Q"
+    alt="GitHub card criveral2"
+    width="500"
+  />
+</p>
+
 ### 🏅 Certification
 
 <a href="https://www.credly.com/badges/39617f7f-a2fc-44ba-8b83-bfd2f88d2419">
